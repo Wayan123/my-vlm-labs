@@ -1,0 +1,16 @@
+#torch
+diffusers
+#transformers
+#accelerate
+peft
+streamlit
+pillow
+requests
+
+gradio
+spaces
+torch==2.2.0
+git+https://github.com/huggingface/transformers/
+optimum
+accelerate
+bitsandbytes
